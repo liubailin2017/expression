@@ -6,7 +6,7 @@
 
 (1+1)*2
 ## 演示
-![](./img/test.gif)
+
 
 ## note 
 支持java , c(./src/c/expression)
